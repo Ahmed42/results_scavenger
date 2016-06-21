@@ -1,1 +1,1 @@
-"# Results Scavenger" 
+# Results Scavenger
